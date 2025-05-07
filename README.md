@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+I love markets, numbers, and programming them.
 <!--
 **KlishevDA/KlishevDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
